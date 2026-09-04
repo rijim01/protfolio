@@ -11,7 +11,7 @@ This portfolio showcases my journey as a **Computer Science & Engineering studen
 ## 🌐 Live Portfolio
 
 🚀 **Visit my portfolio:**
-**[Add your GitHub Pages URL here]**
+**[https://rijim01.github.io/protfolio/]**
 
 Example:
 
@@ -157,16 +157,6 @@ A full-stack event management platform designed to simplify event creation, mana
 
 ---
 
-### E-Commerce Backend
-
-A scalable backend system designed around products, authentication, orders, database management, and API architecture.
-
-**Technologies:**
-
-`NestJS` · `PostgreSQL` · `Prisma` · `Redis`
-
----
-
 ### Backend Systems & APIs
 
 A collection of backend applications and RESTful APIs focused on authentication, database design, validation, security, and maintainable software architecture.
@@ -191,16 +181,6 @@ Activities include:
 * Student engagement initiatives
 * Volunteer coordination
 * Industry and community connections
-
----
-
-### Founder & Head — Pran Bondhon
-
-A community-oriented initiative focused on volunteer activities, fundraising, and social support.
-
-Through this initiative, I have participated in and led activities focused on bringing people together around meaningful causes.
-
----
 
 ## ❤️ Fundraising & Social Impact
 
